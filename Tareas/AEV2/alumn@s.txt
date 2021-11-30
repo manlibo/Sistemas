@@ -1,0 +1,9 @@
+1 46022 B 2001 Valencia 3826B Julian Lopez
+2 46470 A 2000 Albal 3410C Alba Gil
+3 46022 D 1994 Valencia 7412D Manuel Garcia
+4 46470 C 1984 Catarroja 8543K Pedro Guerra
+5 46910 B 2002 Alfafar 9841B Paula Valencia
+6 46004 C 2001 Valencia 1587C Helena Gil
+7 46022 J 2000 Valencia 6542J Julia Guerra
+8 46470 A 1999 Catarroja 0087G Alberto Gil
+9 46470 C 1991 Catarroja 7314F Marisa Garcia
